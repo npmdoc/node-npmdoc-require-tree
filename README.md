@@ -1,4 +1,7 @@
-# api documentation for  [require-tree (v1.1.1)](https://github.com/ricardobeat/require-tree)  [![npm package](https://img.shields.io/npm/v/npmdoc-require-tree.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-require-tree) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-require-tree.svg)](https://travis-ci.org/npmdoc/node-npmdoc-require-tree)
+# npmdoc-require-tree
+
+#### basic api documentation for  [require-tree (v1.1.1)](https://github.com/ricardobeat/require-tree)  [![npm package](https://img.shields.io/npm/v/npmdoc-require-tree.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-require-tree) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-require-tree.svg)](https://travis-ci.org/npmdoc/node-npmdoc-require-tree)
+
 #### Batch module loader, require() for directories
 
 [![NPM](https://nodei.co/npm/require-tree.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/require-tree)
@@ -73,7 +76,8 @@
     "scripts": {
         "test": "mocha"
     },
-    "version": "1.1.1"
+    "version": "1.1.1",
+    "bin": {}
 }
 ```
 
